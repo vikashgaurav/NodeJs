@@ -1,0 +1,7 @@
+{
+	"projectName": "NovaPay",
+	"base_url": "http://localhost:3000/",
+	"accountSid" : "", 
+    "authToken" : "",
+    "SMTP_PASS" : ""
+}
